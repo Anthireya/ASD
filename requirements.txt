@@ -1,0 +1,7 @@
+# DEEPFACE-ASD - web application (works on free hosting, demonstration mode)
+Flask>=3.0
+Werkzeug>=3.0
+numpy>=1.26
+Pillow>=10.0
+reportlab>=4.0
+gunicorn>=22.0

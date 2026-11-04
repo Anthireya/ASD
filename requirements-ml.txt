@@ -1,0 +1,5 @@
+# Extra packages for REAL model analysis (needs a host with >= 2 GB RAM).
+# Install on top of requirements.txt:  pip install -r requirements.txt -r requirements-ml.txt
+librosa>=0.10
+soundfile>=0.12
+tensorflow-cpu>=2.15
